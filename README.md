@@ -18,7 +18,7 @@
 # 🤝 연락처
 
 - 📧 **Email**: abcdejoji@gmail.com
-- 📚 **Blog**: https://abcdejoji.pro
+- 📚 **Blog**: https://www.abcdejoji.pro
 - 👨‍💻 **Github**:  https://github.com/abcdejoji
 
 <!--START_SECTION:waka-->
