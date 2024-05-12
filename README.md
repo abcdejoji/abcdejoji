@@ -49,16 +49,15 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-XML                      3 mins              ██████████████░░░░░░░░░░░   57.89 % 
-Java                     2 mins              ███████████░░░░░░░░░░░░░░   42.11 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Intellijidea             6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2024-05-11 18:22:50 UTC
+ Last Updated on 2024-05-12 18:24:34 UTC
 <!--END_SECTION:waka-->
