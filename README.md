@@ -11,7 +11,7 @@
 
 # 💼 경력
 
-- **Bomapp** - Back-End Software Engineer \[2022-07 - 재직중]
+- **Bomapp** - Back-End Software Engineer \[2022-07 - 2024-06]
 - **TelePIX** - Back-End Software Engineer \[2022-02 - 2022-07]
 - **Hexcon** - Back-End Software Engineer \[2021-04 - 2022-01]
 
