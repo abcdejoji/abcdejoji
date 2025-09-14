@@ -17,6 +17,7 @@
 
 # 🤝 연락처
 
+- 📱 **Tel**: 010-4435-8426
 - 📧 **Email**: abcdejoji@gmail.com
 - 📚 **Blog**: https://abcdejoji.notion.site/JLOG-0fc0ae6c0a704db6bcf42fe4fe67aa2f?source=copy_link
 - 👨‍💻 **Github**:  https://github.com/abcdejoji
