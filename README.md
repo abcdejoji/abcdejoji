@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=00F6FF&height=200&text=Backend%20Developer&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=00F6FF&height=150&text=Backend%20Developer&fontSize=40)
 
 # 🙇‍♂️ 소개
 
