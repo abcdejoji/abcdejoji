@@ -1,24 +1,4 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=120&text=Backend%20Develope&animation=&fontColor=00bfff&fontSize=50" />
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white">
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white">
-          </div>
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=abcdejoji&custom_title=abcdejoji's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcdejoji&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
-    </div>
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=6b32af&height=200&text=Backend%20Developer&fontSize=60)
     
 # 🙇‍♂️ 소개
 
