@@ -14,6 +14,27 @@
 - **TelePIX** - Back-End Software Engineer \[2022-02 - 2022-07]
 - **Hexcon** - Back-End Software Engineer \[2021-04 - 2022-01]
 
+# 🛠 스킬
+
+### Backend
+
+- Java, Kotlin
+- Spring MVC, Spring Security, Spring Data JPA, QueryDSL
+- Spring Rest Docs, Swagger
+- Junit5, Mockito
+- Gradle
+
+### DevOps
+
+- MySQL, Redis
+- Docker, docker-compose
+- AWS EC2, AWS S3, AWS RDS, AWS Route53
+- AWS Code Build, AWS Code Deploy, AWS Code Pipeline
+
+### Other
+
+- IntelliJ IDEA, Git
+
 # 🤝 연락처
 
 - 📞 **Tel**: 010-4435-8426
