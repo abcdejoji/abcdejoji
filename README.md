@@ -37,7 +37,7 @@
 
 # 🤝 연락처
 
-- 📞 **Tel**: 010-4435-8426
+- 📞 **Phone**: 010-4435-8426
 - 📧 **Email**: abcdejoji@gmail.com
 - 📚 **Blog**: https://abcdejoji.github.io
 - 👨‍💻 **Github**:  https://github.com/abcdejoji
