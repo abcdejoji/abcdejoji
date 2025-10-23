@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=00F6FF&height=150&text=Backend%20Developer&fontSize=50)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abcdejoji)](https://github.com/anuraghazra/github-readme-stats)
+
 # 🙇‍♂️ 소개
 
 - 안녕하세요. 4년차 백엔드 개발자 조지헌입니다.
