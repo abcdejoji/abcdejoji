@@ -45,10 +45,6 @@
 - 👨‍💻 **Github**:  https://github.com/abcdejoji
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%203%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -82,5 +78,5 @@ IntelliJ IDEA            6 hrs 10 mins       ███████████�
 ```
 
 
- Last Updated on 27/10/2025 09:14:17 UTC
+ Last Updated on 27/10/2025 09:17:48 UTC
 <!--END_SECTION:waka-->
