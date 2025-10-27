@@ -43,3 +43,6 @@
 - 📧 **Email**: abcdejoji@gmail.com
 - 📚 **Blog**: https://abcdejoji.github.io
 - 👨‍💻 **Github**:  https://github.com/abcdejoji
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
