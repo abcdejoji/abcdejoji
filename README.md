@@ -45,20 +45,10 @@
 - 👨‍💻 **Github**:  https://github.com/abcdejoji
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%203%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 116.9 kB Used in GitHub's Storage 
- > 
-> 🏆 353 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -83,36 +73,14 @@ Sunday                   49 commits          ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Seoul
-
 💬 Programming Languages: 
 Markdown                 4 hrs 26 mins       ██████████████████░░░░░░░   71.99 % 
 Kotlin                   1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   28.01 % 
 
 🔥 Editors: 
 IntelliJ IDEA            6 hrs 10 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-abcdejoji.github.io      4 hrs 26 mins       ██████████████████░░░░░░░   71.99 % 
-dev-practice-commerce_v1.1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-
-💻 Operating System: 
-Mac                      6 hrs 10 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     7 repos             ██████████████████████░░░   87.50 % 
-HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/abcdejoji/abcdejoji/main/assets/bar_graph.png)
-
-
- Last Updated on 27/10/2025 09:10:36 UTC
+ Last Updated on 27/10/2025 09:14:17 UTC
 <!--END_SECTION:waka-->
